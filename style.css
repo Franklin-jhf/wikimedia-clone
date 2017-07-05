@@ -1,0 +1,50 @@
+
+.container {
+    width: 75%;
+    margin: auto;
+    max-width: 100%;
+}
+
+p {    
+    font-family: sans-serif;
+}
+.container p {
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.welcome {
+    text-align: right;
+}
+
+p a {
+    text-decoration: none;
+}
+
+div img {
+    float: left;
+    height: 150px;
+    width: 135px;
+    margin: 10px 3vw;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    transform: translate(0, 20px);
+}
+
+footer a {
+    margin: 10px 12px;
+    transform: translate(0, 20px);
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+hr {
+    margin: 0 20vw;
+    clear: both;
+    transform: translate(0, 20px);
+}
